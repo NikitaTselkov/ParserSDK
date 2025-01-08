@@ -1,0 +1,12 @@
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\bin\Debug\net8.0\ParserSDK.deps.json
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\bin\Debug\net8.0\ParserSDK.dll
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\bin\Debug\net8.0\ParserSDK.pdb
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ParserSDK.csproj.AssemblyReference.cache
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ParserSDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ParserSDK.AssemblyInfoInputs.cache
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ParserSDK.AssemblyInfo.cs
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ParserSDK.csproj.CoreCompileInputs.cache
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ParserSDK.dll
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\refint\ParserSDK.dll
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ParserSDK.pdb
+C:\Users\nikit\RiderProjects\ParserSDK\ParserSDK\obj\Debug\net8.0\ref\ParserSDK.dll

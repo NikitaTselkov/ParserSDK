@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserSDK", "ParserSDK\ParserSDK.csproj", "{9A00A454-9384-4262-B48F-331D6DA59A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApi", "ConsoleApi\ConsoleApi.csproj", "{54292951-B1AD-4277-B213-5748746E5AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A00A454-9384-4262-B48F-331D6DA59A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A00A454-9384-4262-B48F-331D6DA59A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A00A454-9384-4262-B48F-331D6DA59A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A00A454-9384-4262-B48F-331D6DA59A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54292951-B1AD-4277-B213-5748746E5AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54292951-B1AD-4277-B213-5748746E5AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54292951-B1AD-4277-B213-5748746E5AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54292951-B1AD-4277-B213-5748746E5AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
